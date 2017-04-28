@@ -4,3 +4,13 @@ title:  "Tell about how you made your site and why you chose the tools you did. 
 date:   2017-04-27 20:36:00
 categories: netlify
 ---
+
+The first step I took for making my site was setting up a Netlify account. Since I already had a Github account, I just linked it there and my account was created. I can't imagine it being much more simple.
+
+After that, I had to choose a [site generation tool][sitegen]. Looking at the list, the top one stood out to me, Jekyll, because as I've been learning Ruby and Rails, a friend pointed that out to me as a good tool to study. With just a click of "Deploy to Netlify" and few quick settings in Github, I was on my way.
+
+I then synced the repo to my Mac using Github Desktop and am currently editing the files in Atom. These are the same tools I've been using in creating my own Ruby/Rails projects, so I already had them installed and setting the project up in them took no time at all.
+
+The biggest challenge I've faced so far is setting up the redirects file. I've studied Jekyll, but I've never built with it, so I had to figure out how to include the `_redirects` file in the build. Luckily, Jekyll has great documentation and it didn't take long to figure that out.
+
+[sitegen]: https://staticgen.com
