@@ -17,4 +17,8 @@ The first place I would look is your most recent deployment. A site generation t
 
 **Support Article**
 
-We know it's frustrating when your site won't build and it isn't clear why. It's important to us that you're able to make a beautiful, fast webpage as easily as possible, but we know that isn't always the case. With your help, we should be able to get you back up and running
+We know it's frustrating when your site won't build and it isn't clear why. It's important to us that you're able to make a beautiful, fast webpage as easily as possible, but we know that isn't always the case. With your help, we should be able to get you back up and running.
+
+If this is your first deploy and you haven't set up custom settings, it could save you time to delete the site and start again. If it isn't your first deploy, reverting to the most recent working deploy could answer where the problem started. Reverting is easy, too! Just click on the deploy you want to use and then select "Publish Deploy." When you find one that builds, compare it to the one that doesn't. What changed? (And don't forget you can [contact us][email] for help!)
+
+[email]: mailto:support@netlify.com
