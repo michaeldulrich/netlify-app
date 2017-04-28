@@ -4,3 +4,9 @@ title:  "Provide a link to documentation for a technical product that you think 
 date:   2017-04-27 20:34:00
 categories: netlify
 ---
+
+I may be biased since I used to work for them, but I think Apple's guide for [Swift][swift] is absolutely excellent. Before I started learning Ruby/Rails I dedicated some time to learning iOS development and Apple's guides are easy to read and understand, include examples (that for a while, at least, included direct references to Firefly, one of the world's greatest TV shows), and they even have an iOS app to help ground you in the fundamentals through a game of sorts.
+
+Though it isn't a developer tool, I think Apple's customer-facing support pages are also in a league nearly of their own. When I try to solve an issue with an Apple product and I turn to Google, I almost always find an article from Apple's knowledgebase that solves the problem. I would even use these articles when I worked technical support for Apple because they were so easy to find and understand.
+
+[swift]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0
