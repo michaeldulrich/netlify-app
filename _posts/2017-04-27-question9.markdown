@@ -4,3 +4,17 @@ title:  "My Site Won't Build. Help!"
 date:   2017-04-27 20:31:00
 categories: netlify
 ---
+
+*After reading this question, I wasn't sure if I should form my answer as a reply email or a support article. I thought it'd be fun to do both*
+
+**Email**
+
+[Customer Name],
+
+I'm so sorry to hear that you're having trouble getting your site to build. I've worked on my own sites and know how frustrating it can be when it doesn't work. I appreciate the opportunity to work with you to help get it fixed. What I'd like to do is gather some more information that will be helpful to getting to the solution, if that's okay.
+
+The most likely culprit in a build failing is information added in the last deploy. Can you revert back to a previous deploy (it's as easy as clicking on one prior) and make sure it works? If it does, you'll know it's content added since that deploy. If you'd reply with any information changed since that deploy, along with your site name, I'd be more than happy to help get you back up and running.
+
+**Support Article**
+
+We know it's frustrating when your site won't build and it isn't clear why.
