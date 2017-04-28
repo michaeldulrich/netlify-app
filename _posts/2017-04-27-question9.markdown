@@ -1,11 +1,6 @@
 ---
 layout: post
 title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
-date:   2015-02-12 13:46:40
+date:   2017-04-27 20:30:00
 categories: netlify
 ---
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
