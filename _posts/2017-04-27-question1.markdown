@@ -8,8 +8,8 @@ categories: netlify
 The first question is to rank the top 5 and bottom from this [list][list].
 
 Fav 5:
-Create video tutorials to help teach users a specific feature or use case.
-Write and maintain documentation for our software and blog posts for our website.
+* Create video tutorials to help teach users a specific feature or use case.
+* Write and maintain documentation for our software and blog posts for our website.
 Respond to Netlify fans on Twitter.
 Work with the development team to help design a new feature based on feedback from customers.
 Respond to 60+ support requests via email or chat every day
