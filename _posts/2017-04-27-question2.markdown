@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
+title:  "What is your favorite thing about providing technical support?"
 date:   2017-04-27 20:30:00
 categories: netlify
 ---

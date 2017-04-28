@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
+title:  "Could you give us a suggestion to improve this test or job posting?"
 date:   2017-04-27 20:30:00
 categories: netlify
 ---

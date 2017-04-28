@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
+title:  "Why do you think SSL/HTTPS is important?"
 date:   2017-04-27 20:30:00
 categories: netlify
 ---

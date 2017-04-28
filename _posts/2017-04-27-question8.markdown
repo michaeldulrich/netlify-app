@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
+title:  "Explain what you think 2 major challenges around DNS configuration are for less-technical internet end-users."
 date:   2017-04-27 20:30:00
 categories: netlify
 ---

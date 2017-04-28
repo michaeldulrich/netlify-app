@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank Your 5 Favorite, and 5 Least Favorite, Activities"
+title:  "Tell about how you made your site and why you chose the tools you did. Explain a challenge."
 date:   2017-04-27 20:30:00
 categories: netlify
 ---
