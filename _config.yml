@@ -10,3 +10,4 @@ github_username:  michaeldulrich
 
 # Build settings
 markdown: kramdown
+include: [_redirects]
