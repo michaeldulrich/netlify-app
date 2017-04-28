@@ -1,5 +1,7 @@
 # Redirects from what the browser requests to what we serve
 
-/netlify/anything https://www.google.com/search?q=anything
+/netlify/* https://www.google.com/search?q=:splat
+
+# Adding this in because it's easier to test.
 
 /sam http://www.samsymons.com
