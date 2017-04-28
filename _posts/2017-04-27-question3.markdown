@@ -4,3 +4,11 @@ title:  "What did you think of our service during the time you used it?"
 date:   2017-04-27 20:37:00
 categories: netlify
 ---
+
+It's probably going to be hard to believe that I'm not blowing smoke here, but I'm floored by how easy this is.  For a while, I hosted my own install of Wordpress on Bluehost and it was supposed to be "easy." It's nothing compared to this. It took only a minute or two for my site to be fully functional.
+
+Setting up DNS from [a subdomain with hover][hover] took a lot longer than I would've liked it to (because I made it far too complicated), but getting it up and running gave me a real feeling of accomplishment.
+
+The only real problem I've come across is trying to set up HTTPS. When I click the link to enable it, it gives me an error "An unknown error has occurred." I might have to dive a little deeper to figure that one out.
+
+[hover]: netlify.michaelulrichwrites.com
