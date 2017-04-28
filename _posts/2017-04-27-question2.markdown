@@ -4,3 +4,7 @@ title:  "What is your favorite thing about providing technical support?"
 date:   2017-04-27 20:30:00
 categories: netlify
 ---
+
+There's a moment, I think in a good technical support interaction, where you can tell that the solution has clicked with the user. In person, you see it light up in their eyes. "Oh!" It's a great moment. I've found that people express that in their own way in chat/email/phone calls too. You might see a lot of exclamation points suddenly or maybe an emoji. It's great to know that you didn't just fix a problem for a person. You affected their life in a positive way. You took something that was causing them stress, or pain, or anger, and you turned it into an experience to assure them that they made the right decision working with you and your company.
+
+That's the first answer, but I have another and it's a little simpler than that: I really like figuring out complicated problems. The satisfaction from working through a problem is a reward of its own.
