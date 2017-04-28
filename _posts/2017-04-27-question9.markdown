@@ -13,8 +13,8 @@ categories: netlify
 
 I'm so sorry to hear that you're having trouble getting your site to build. I've worked on my own sites and know how frustrating it can be when it doesn't work. I appreciate the opportunity to work with you to help get it fixed. What I'd like to do is gather some more information that will be helpful to getting to the solution, if that's okay.
 
-The most likely culprit in a build failing is information added in the last deploy. Can you revert back to a previous deploy (it's as easy as clicking on one prior) and make sure it works? If it does, you'll know it's content added since that deploy. If you'd reply with any information changed since that deploy, along with your site name, I'd be more than happy to help get you back up and running.
+The most likely culprit in a build failing is information added in the last deployment. Can you revert back to a previous deployment (it's as easy as clicking on a prior one) and make sure it works? If it does, you'll know it's content added since that deployment. If it doesn't build, you may need to go back to an even earlier deployment. Once you find the one that works, reply with any information changed since then, along with your site name, and I'd be more than happy to help get you back up and running.
 
 **Support Article**
 
-We know it's frustrating when your site won't build and it isn't clear why.
+We know it's frustrating when your site won't build and it isn't clear why. It's important to us that you're able to make a beautiful, fast webpage as easily as possible, but we know that isn't always the case. With your help, we should be able to get you back up and running
