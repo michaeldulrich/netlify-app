@@ -13,7 +13,7 @@ categories: netlify
 
 I'm so sorry to hear that you're having trouble getting your site to build. I've worked on my own sites and know how frustrating it can be when it doesn't work. I appreciate the opportunity to work with you to help get it fixed. What I'd like to do is gather some more information that will be helpful to getting to the solution, if that's okay.
 
-The most likely culprit in a build failing is information added in the last deployment. Can you revert back to a previous deployment (it's as easy as clicking on a prior one) and make sure it works? If it does, you'll know it's content added since that deployment. If it doesn't build, you may need to go back to an even earlier deployment. Once you find the one that works, reply with any information changed since then, along with your site name, and I'd be more than happy to help get you back up and running.
+The first place I would look is your most recent deployment. A site generation tool can fail to build when information is changed that it doesn't understand. If you send me your site URL along with the console output on the latest deploy (which you can find in your computer's console if you're using the command line or by clicking on a specific deploy on your site's Deploys page), I'd be more than happy to work with you to get this figured out.
 
 **Support Article**
 
