@@ -5,7 +5,7 @@ date:   2017-04-27 20:33:00
 categories: netlify
 ---
 
-You may be looking for answer from a technical standpoint about why SSL and HTTPS are so important, but I think the political environment right now demands a more personal answer to the question. Regardless of political alliances, it scares me that our politicians voted to allow ISPs to sell our data to anyone who's looking to buy. If SSL wasn't important for the technical reasons [you list on your article on it][article], like boosting site performance and having a higher SEO rank, it's important now.
+You may be looking for answer from a technical standpoint about why SSL and HTTPS are so important, but I think the political environment right now demands a more personal answer to the question. Regardless of political alliances, it scares me that our politicians voted to allow ISPs to sell our data to anyone who's looking to buy. If SSL wasn't important for the technical reasons [you list in your article on it][article], like boosting site performance and having a higher SEO rank, it's important now.
 
 ISPs will, of course, promise good faith use of the data, but without oversight into their actions, we may never actually know what they're storing, whether they're storing it securely, if/when that data will be compromised, and what will be taken if it is. It's a real responsibility for leaders in technology to push users further to safety.
 
