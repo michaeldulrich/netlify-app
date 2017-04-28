@@ -1,3 +1,5 @@
 # Redirects from what the browser requests to what we serve
 
-/netlify/anything https://www.google.com/search?q=anything 
+/netlify/anything https://www.google.com/search?q=anything
+
+/butts http://www.samsymons.com
